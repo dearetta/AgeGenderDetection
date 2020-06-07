@@ -25,7 +25,7 @@ pip3 install opencv-python
 
 ## Running the tests
 
-run this command to use your webcam
+run this command to capture stream video using webcam
 
 ```
 python3 gad.py
